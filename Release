@@ -1,0 +1,16 @@
+Origin: AeroMod
+Label: AeroMod
+Suite: stable
+Version: 1.0
+Codename: aeromod
+Architectures: iphoneos-arm64
+Components: main
+Description: AeroMod - TAS toolkit for Aerox
+MD5Sum:
+ 52af086a103fc651698841884b8f14bd 667 Packages
+ e8805b9d3abcad0df879f15256933d89 502 Packages.bz2
+ e37aa957ce55dc2b9445c6a0c5986ae3 445 Packages.gz
+SHA256:
+ 7b843517b2220df02863f1a8b1c1bc605653bb4e36bf7b3c0425f57dc2d447b7 667 Packages
+ 9902d17697679f7b0fcdeba53acf76d3d179cab4bc72c169e9bc7358d2f592b8 502 Packages.bz2
+ cf54368ee73991c7a30943b3ca1e865e2db8a46e4ad4183c0a0c9ee212279ad1 445 Packages.gz
