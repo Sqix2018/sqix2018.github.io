@@ -1,16 +1,16 @@
 Package: com.sqix2018.aeromod
 Name: AeroMod
-Version: 0.1.3
+Version: 0.1.4
 Architecture: iphoneos-arm64
 Description: TAS and practice toolkit for Aerox 1.9.5. Frame-exact macros, rewind, splits, teleport, virtual tilt and death-warp tools. Runs on launch through Frida Gadget 17.18.0; no PC needed.
 Maintainer: Sqix2018
 Author: Sqix2018
 Section: Tweaks
 Depends: mobilesubstrate, ldid
-Installed-Size: 42880
+Installed-Size: 42879
 Homepage: https://github.com/Sqix2018/AeroMod
-Filename: debs/com.sqix2018.aeromod_0.1.3_iphoneos-arm64.deb
-Size: 19792974
-MD5sum: 81e2995e4aebc69f6b99371a8ae846ed
-SHA256: fc67df69a7892350e90c0ecdcacdd4ddb55c46e462e43fb40622768fa282bfa1
+Filename: debs/com.sqix2018.aeromod_0.1.4_iphoneos-arm64.deb
+Size: 19792756
+MD5sum: f039869990eff5932e93cd4a23a71a81
+SHA256: 620dc492afc63594d02fb786b596bebf271e84c9ae9f6920124adc39c335874c
 Depiction: https://github.com/Sqix2018/AeroMod
